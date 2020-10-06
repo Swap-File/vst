@@ -3,6 +3,7 @@ v.st vector board
 This is a modified version of the v.st vector board that targets installation in arcade cabinets with an Electrohome GO5-802 / 805 monitor.
 
 It uses the same serial protocol as the USB-DVG, meaning you can use standard builds of AdvanceMAME with it.
+
 Protocol Documentation Here:  https://github.com/amadvance/advancemame/blob/master/advance/osd/dvg.c
 
 Hardware and software is currently in BETA!  The Teensy 3.2 is underpowered; I should really replace it with a 4.x.  The software is not optimized either; consider it a proof of concept.  Buy a USB-DVG if you want something that works out of the box.
